@@ -2,28 +2,28 @@
 const footballTeam = [
     {
         nome: 'Juventus',
-        punti: '',
-        falli: '',
+        punti: 0,
+        falli: 0,
     },
     {
         nome: 'Fiorentina',
-        punti: '',
-        falli: '',
+        punti: 0,
+        falli: 0,
     },
     {
         nome: 'Milan',
-        punti: '',
-        falli: '',
+        punti: 0,
+        falli: 0,
     },
     {
         nome: 'Roma',
-        punti: '',
-        falli: '',
+        punti: 0,
+        falli: 0,
     },
     {
         nome: 'USD Pescopagano 1926',
-        punti: '',
-        falli: '',
+        punti: 0,
+        falli: 0,
     },
 ]
 
